@@ -4,10 +4,6 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.examples.InterfaceInjection.service.OrderService;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
